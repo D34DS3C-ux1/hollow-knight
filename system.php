@@ -6,7 +6,7 @@
  */
 
 // Security: Change this password
-define('ACCESS_PASSWORD', 'admin123'); // GANTI PASSWORD INI!
+define('ACCESS_PASSWORD', 'admin777'); // GANTI PASSWORD INI!
 define('SELF_FILE', __FILE__);
 
 session_start();
